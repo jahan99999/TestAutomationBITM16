@@ -1,0 +1,43 @@
+1670083419019	geckodriver	INFO	Listening on 127.0.0.1:1904
+1670083422058	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jahan\\AppData\\Local\\Temp\\rust_mozprofileRKl6kp"
+1670083423336	Marionette	INFO	Marionette enabled
+1670083423345	Marionette	INFO	Listening on port 1916
+Read port: 1916
+WebDriver BiDi listening on ws://127.0.0.1:1905
+1670083423671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jahan\\AppData\\Local\\Temp\\rust_mozprofileRKl6kp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1905/devtools/browser/fa454848-a3cf-420e-8463-7c3ae8e858ee
+1670083892410	Marionette	INFO	Stopped listening on port 1916
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "2069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jahan\\AppData\\Local\\Temp\\rust_mozprofileFxYS0Q"
+1670083659368	Marionette	INFO	Marionette enabled
+1670083659376	Marionette	INFO	Listening on port 2080
+Read port: 2080
+WebDriver BiDi listening on ws://127.0.0.1:2069
+1670083659663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jahan\\AppData\\Local\\Temp\\rust_mozprofileFxYS0Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2069/devtools/browser/d64c308e-a765-4b0e-acf8-d76fb68a99eb
+1670083893333	Marionette	INFO	Stopped listening on port 2080
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "2224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jahan\\AppData\\Local\\Temp\\rust_mozprofileJOCQ4W"
+1670083841235	Marionette	INFO	Marionette enabled
+1670083841243	Marionette	INFO	Listening on port 2234
+Read port: 2234
+WebDriver BiDi listening on ws://127.0.0.1:2224
+1670083841535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jahan\\AppData\\Local\\Temp\\rust_mozprofileJOCQ4W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2224/devtools/browser/b4cdce78-2a23-4b62-92d0-420e131e0142
+1670083894450	Marionette	INFO	Stopped listening on port 2234
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670083907578	geckodriver	INFO	Listening on 127.0.0.1:2306
+1670083910591	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jahan\\AppData\\Local\\Temp\\rust_mozprofilehnwQV7"
+1670083911381	Marionette	INFO	Marionette enabled
+1670083911390	Marionette	INFO	Listening on port 2318
+Read port: 2318
+WebDriver BiDi listening on ws://127.0.0.1:2307
+1670083911669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jahan\\AppData\\Local\\Temp\\rust_mozprofilehnwQV7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2307/devtools/browser/89ba7e41-83c0-49b0-b111-9489bf56afb4
+1670084191875	Marionette	INFO	Stopped listening on port 2318
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
